@@ -6,6 +6,7 @@ ffff
 iujghjgjghjghbvvvbvbvfdvfdvdfdf
 gfbdbgfgfrgtrgdfvfdvfd
 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrsssss
+<<<<<<< HEAD
 hola
 f
 f
@@ -13,3 +14,9 @@ f
 f
 f
 f
+=======
+kijkjkjjj
+DFFFFFFF
+holaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ñllll
+>>>>>>> origin/vcc
